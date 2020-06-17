@@ -13,7 +13,7 @@
     </div>
 
     <footer id="footer" class="text-center">
-      <p>Copyright &copy; 2017 TodoList</p>
+      <p>Copyright &copy; 2020 TodoList</p>
     </footer>
   </body>
 </html>
